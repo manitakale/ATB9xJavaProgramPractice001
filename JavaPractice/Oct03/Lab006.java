@@ -2,6 +2,8 @@ package JavaPractice.Oct03;
 
 public class Lab006 {
     public static void main(String[] args) {
+
+        //Table of 10
         System.out.println("10 * 1 = 10");
         System.out.println("10 * 2 = 20");
         System.out.println("10 * 3 = 30");
