@@ -6,27 +6,28 @@ public class TableUsingPrintf {
         //Table using printf
 int a=10;
 int i=1;
-int n=1 ;
 
-        System.out.printf("%d * %d = %d",a, n, a*i);
-        i++;n++;System.out.println();
-        System.out.printf("%d * %d = %d",a, n, a*i);
-        i++;n++; System.out.println();
-        System.out.printf("%d * %d = %d",a, n, a*i);
-        i++; n++;System.out.println();
-        System.out.printf("%d * %d = %d",a, n, a*i);
-        i++; n++; System.out.println();
-        System.out.printf("%d * %d = %d",a, n, a*i);
-        i++; n++; System.out.println();
-        System.out.printf("%d * %d = %d",a, n, a*i);
-        i++; n++; System.out.println();
-        System.out.printf("%d * %d = %d",a, n, a*i);
-        i++; n++; System.out.println();
-        System.out.printf("%d * %d = %d",a, n, a*i);
-        i++; n++; System.out.println();
-        System.out.printf("%d * %d = %d",a, n, a*i);
-        i++; n++; System.out.println();
-        System.out.printf("%d * %d = %d",a, n, a*i);
+
+        System.out.printf("%d * %d = %d",a, i, a*i);
+        i++;System.out.println();
+        System.out.printf("%d * %d = %d",a, i, a*i);
+        i++;System.out.println();
+        System.out.printf("%d * %d = %d",a, i, a*i);
+        i++;System.out.println();
+        System.out.printf("%d * %d = %d",a, i, a*i);
+        i++;System.out.println();
+        System.out.printf("%d * %d = %d",a, i, a*i);
+        i++;System.out.println();
+        System.out.printf("%d * %d = %d",a, i, a*i);
+        i++;System.out.println();
+        System.out.printf("%d * %d = %d",a, i, a*i);
+        i++;System.out.println();
+        System.out.printf("%d * %d = %d",a, i, a*i);
+        i++;System.out.println();
+        System.out.printf("%d * %d = %d",a, i, a*i);
+        i++;System.out.println();
+        System.out.printf("%d * %d = %d",a, i, a*i);
+        i++;System.out.println();
 
 
     }
