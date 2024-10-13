@@ -1,4 +1,4 @@
-package JavaPractice.Oct001.Oct01003;
+package JavaPractice.Oct01.Oct01003;
 
 public class Lab003 {
     public static void main(String[] args) {
