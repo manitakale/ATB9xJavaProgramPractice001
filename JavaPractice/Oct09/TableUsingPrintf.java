@@ -27,7 +27,7 @@ int i=1;
         System.out.printf("%d * %d = %d",a, i, a*i);
         i++;System.out.println();
         System.out.printf("%d * %d = %d",a, i, a*i);
-        i++;System.out.println();
+
 
 
     }
