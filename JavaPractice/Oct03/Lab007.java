@@ -7,7 +7,7 @@ public class Lab007 {
         int a,b;
         a=10;
         b=8;
-        int result = 0;
+
         System.out.println("Values of a is "+ a);
         System.out.println("Values of b is "+b);
         System.out.println("Addition of a + b = "+ (a+b));
